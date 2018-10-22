@@ -6,8 +6,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient
 
 @SpringBootApplication
 @EnableDiscoveryClient
-class Microapp1Application
+class Micro1Application
 
 fun main(args: Array<String>) {
-    runApplication<Microapp1Application>(*args)
+    runApplication<Micro1Application>(*args)
 }
