@@ -1,0 +1,8 @@
+# config server health
+GET http://localhost:8888/actuator/health
+
+### gateway test
+GET http://127.0.0.1:8080/httpbin/headers
+Host: kotlin.abc.org
+
+###
