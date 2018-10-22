@@ -20,7 +20,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <spring.version>5.1.1.RELEASE</spring.version>
+        <spring.version>5.0.10.RELEASE</spring.version>
         <spring-boot.version>2.0.6.RELEASE</spring-boot.version>
         <spring-cloud.version>Finchley.SR1</spring-cloud.version>
         <platform-bom.version>Cairo-SR5</platform-bom.version>
