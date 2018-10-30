@@ -60,6 +60,8 @@ Consul Key/Value支持的Spring config Server目录结构如下：
 
 ### Reference
 
+* What's New In Kotlin 1.3： https://todd.ginsberg.com/post/kotlin-1.3-features/
+* Kotlin support in Spring 5.0: https://docs.spring.io/spring/docs/current/spring-framework-reference/languages.html#kotlin
 * Spring Cloud: http://cloud.spring.io/spring-cloud-static/Finchley.RELEASE/single/spring-cloud.html
 * Spring Cloud Consul: http://cloud.spring.io/spring-cloud-consul/
 * Spring Cloud ZooKeeper: http://cloud.spring.io/spring-cloud-zookeeper/spring-cloud-zookeeper.html
