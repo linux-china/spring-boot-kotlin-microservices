@@ -18,6 +18,12 @@ please install Java 8 JCE: http://www.oracle.com/technetwork/java/javase/downloa
 * Spring-Fu
 * SideCar proxy with Envoy
 
+### Tech stack
+
+* Kotlin Coroutine
+* Reactive Web
+* RSocket
+
 ### How to start services
 
 * Start Consul from docker-compose.yml
