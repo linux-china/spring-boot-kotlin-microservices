@@ -2,7 +2,7 @@ version: '3'
 
 services:
   consul:
-      image: consul:1.4.0
+      image: consul:1.4.3
       ports:
         - "8300:8300"
         - "8301:8301"
@@ -11,17 +11,17 @@ services:
         - "8500:8500"
         - "8600:53/udp"
   redis:
-      image: redis:5.0.1
+      image: redis:5.0.4
       ports:
         - "6379:6379"
   vault:
-      image: vault:0.11.5
+      image: vault:1.1.0
       ports:
         - "8200:8200"
       cap_add:
         - IPC_LOCK
   mysql:
-      image: mysql:5.6.40
+      image: mysql:5.7.25
       ports:
         - "3306:3306"
       environment:
