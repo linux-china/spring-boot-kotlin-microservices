@@ -19,11 +19,11 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <spring-boot.version>2.6.1</spring-boot.version>
-        <spring-cloud.version>2021.0.0</spring-cloud.version>
-        <jackson.version>2.12.5</jackson.version>
-        <kotlin.version>1.5.32</kotlin.version>
-        <junit5.version>5.8.2</junit5.version>
+        <spring-boot.version>2.7.5</spring-boot.version>
+        <spring-cloud.version>2021.0.4</spring-cloud.version>
+        <jackson.version>2.13.4</jackson.version>
+        <kotlin.version>1.7.20</kotlin.version>
+        <junit5.version>5.9.1</junit5.version>
     </properties>
 
     <dependencies>
